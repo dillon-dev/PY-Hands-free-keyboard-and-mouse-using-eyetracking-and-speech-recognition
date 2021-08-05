@@ -1,2 +1,3 @@
-# PY-Hands-free-keyboard-and-mouse-using-eyetracking-and-speech-recognition
-Hands-free keyboard and mouse using Python
+# [Python] Hands-free keyboard and mouse using eyetracking and speech recognition
+
+A Python application which allows the user to control their mouse and keyboard using only their voice or their eyes through the use of speech recognition and eyetracking technologies, performed through use of the Google Speech Recognition engine and OpenCV in conjunction with Dlib's 68 facial landmarks. This project does not function without Dlib's 68 facial landmarks DAT file, which was too large to include in this repository.
